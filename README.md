@@ -1,5 +1,15 @@
 This is a machine learning model that predicts the soil moisture for given two datasets containing data about soil moisture, temperature and humidity.
 
+# Project Team 
+* Denslin Nunes - crce.9390.aids@gmail.com
+* Nigel Misquitta - crce.9273.cs@gmail.com
+* Dillon Gonsalves - crce.9259.cs@gmail.com
+* Preeti Vasaikar - crce.9299.cs@gmail.com
+* Shoydon Alphonso - crce.9240.cs@gmail.com
+
+
+
+
 
 
 This repository consists of a single .ipynb file and a the provided datasets in .csv format.
