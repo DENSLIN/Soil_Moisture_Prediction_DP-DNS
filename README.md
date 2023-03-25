@@ -92,3 +92,5 @@ This repository consists of a single .ipynb file and a the provided datasets in 
 
 
 * The  Soil_Moisture_Predicting_System.ipynb file also consists of a results section at the end of the file where we have compared all accuracy scores and Mean Absolute Error (MAE) of all the models that we have implemented. This helps us choose the best model for the prediction process.
+*  The Soil Moisture Prediction_Presentation.pdf which is a PPT of the Project.
+*  The project Report saved as SoilMoisturePrediction_Report.pdf .
