@@ -56,12 +56,12 @@ This repository consists of a single .ipynb file and a the provided datasets in 
 
 * In Jupyter Notebook make sure the path of all the respective datasets is entered correctly before running the program.
 
-* Run the following sections in the Soil_Moisture_Predicting_System.ipynb file :
+* **Run the following sections in the Soil_Moisture_Predicting_System.ipynb file :
 --> Import 
 --> Data Preprocessing
 --> Combine Data
 --> Model Preparation 
---> Best Model 
+--> Best Model** 
 
     
 
