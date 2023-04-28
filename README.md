@@ -1,6 +1,6 @@
 This is a machine learning model that predicts the soil moisture for given two datasets containing data about soil moisture, temperature and humidity.
 
-# Project Team (2nd Rank IIT Dharwad)
+# Project Team (1st Rank IIT Dharwad)
 * Denslin Nunes - crce.9390.aids@gmail.com
 * Nigel Misquitta - crce.9273.cs@gmail.com
 * Dillon Gonsalves - crce.9259.cs@gmail.com
